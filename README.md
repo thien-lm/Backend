@@ -8,7 +8,11 @@ Vào folder Source_To_Test_and_learn -> Vào folder spring-boot-3-jwt-security-u
 
 #HD chạy Backend
 Download XAMPP
+<br>
 Người dùng chạy Xamp và tạo database có tên muốn dùng
+<br>
 Import file database.sql 
+<br>
 Tiếp đó ở phần application config tên database và user password phù hợp 
+<br>
 Sau đó chạy SecurityApplication.java để bắt đầu server
