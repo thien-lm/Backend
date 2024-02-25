@@ -5,9 +5,10 @@ Xem tài liệu phân tích thiết kế ở Phân tích thiết kế hệ thôn
 Ở folder Source Code
 Vào folder Source_To_Test_and_learn -> Vào folder spring-boot-3-jwt-security-update_v1.1
 
+
+#HD chạy Backend
+Download XAMPP
 Người dùng chạy Xamp và tạo database có tên muốn dùng
 Import file database.sql 
 Tiếp đó ở phần application config tên database và user password phù hợp 
 Sau đó chạy SecurityApplication.java để bắt đầu server
-
-# Backend
